@@ -2,3 +2,4 @@ Solved 14 problems on Oct 3: Matrix, Bitwise, Math
 Problem 1  
 Problem 2  
 Problem 3  
+Problem 4  
