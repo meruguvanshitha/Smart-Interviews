@@ -19,3 +19,4 @@ Problem Oct4-3
 Problem Oct4-4  
 Problem Oct4-5  
 Problem Oct4-letter coverage  
+Problem Oct4-vowels and consonants  
