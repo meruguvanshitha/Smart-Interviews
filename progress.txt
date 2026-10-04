@@ -22,3 +22,4 @@ Problem Oct4-letter coverage
 Problem Oct4-vowels and consonants  
 Problem Oct4-check the square string  
 Problem Oct4-Balanced Splitting  
+Problem Oct4-Digit String  
