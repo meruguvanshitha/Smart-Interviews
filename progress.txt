@@ -32,3 +32,4 @@ Problem Oct5-A B and X
 Problem Oct5-Digit Cubes  
 Problem Oct5-Harshad Numbers  
 Problem Oct5-Narcissistic Numbers  
+Problem Oct5-compound interest  
