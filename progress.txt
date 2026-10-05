@@ -29,3 +29,4 @@ Problem Oct4-Number of DAYS
 Problem Oct5-Ternary Array  
 Problem Oct5-Factorial Hard  
 Problem Oct5-A B and X  
+Problem Oct5-Digit Cubes  
