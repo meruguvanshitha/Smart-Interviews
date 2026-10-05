@@ -33,3 +33,4 @@ Problem Oct5-Digit Cubes
 Problem Oct5-Harshad Numbers  
 Problem Oct5-Narcissistic Numbers  
 Problem Oct5-compound interest  
+Problem Oct5-quadratic eq  
