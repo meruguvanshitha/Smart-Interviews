@@ -36,3 +36,4 @@ Problem Oct5-compound interest
 Problem Oct5-quadratic eq  
 Problem Oct5-prime or not  
 Problem Oct5-arrange primes  
+Problem Oct5-fuel tank  
